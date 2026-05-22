@@ -81,14 +81,13 @@ DataCleaningAutomation/
 │
 ├── main.py
 ├── data.csv
-├── cleaned_data.csv
 ├── report.txt
 ├── README.md
-├── bar_chart.png
-├── pie_chart.png
 │
 └── screenshots/
-    ├── terminal_output.png
+    ├── terminal.png
+    ├── bar_chart.png
+    └── pie_chart.png
 ```
 
 ---
@@ -115,19 +114,19 @@ python main.py
 
 ### Terminal Output
 
-<img width="800" alt="Terminal Output" src="screenshots/terminal.png">
+<img width="800" src="screenshots/terminal.png">
 
 ---
 
 ### Bar Chart Visualization
 
-<img width="800" alt="Bar Chart" src="bar_chart.png">
+<img width="800" src="screenshots/bar_chart.png">
 
 ---
 
 ### Pie Chart Visualization
 
-<img width="800" alt="Pie Chart" src="pie_chart.png">
+<img width="800" src="screenshots/pie_chart.png">
 
 ---
 
@@ -135,7 +134,7 @@ python main.py
 
 The project automatically generates:
 
-- data.csv
+- cleaned_data.csv
 - report.txt
 - bar_chart.png
 - pie_chart.png
