@@ -115,7 +115,7 @@ python main.py
 
 ### Terminal Output
 
-<img width="800" alt="Terminal Output" src="screenshots/terminal_output.png">
+<img width="800" alt="Terminal Output" src="screenshots/terminal.png">
 
 ---
 
@@ -135,7 +135,7 @@ python main.py
 
 The project automatically generates:
 
-- cleaned_data.csv
+- data.csv
 - report.txt
 - bar_chart.png
 - pie_chart.png
